@@ -1,16 +1,20 @@
-### Hi there 👋
+# MooCowGalaxy 🐮
+just your average web dev
 
-<!--
-**MooCowGalaxy/MooCowGalaxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+skills:
+- js/ts
+- java
+- python
+- a little bit of C#/C++
 
-Here are some ideas to get you started:
+libraries/frameworks:
+- react frontend
+- express.js backend
+- tailwindcss
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## projects
+- JKLM.fun bot (https://jklm.moocow.dev - last update Mar. 2022)
+- CocoBot Discord bot (https://moocow.dev - last update 2020)
+- mooi.ng ShareX image host (private beta)
+
+![stats](https://github-stats.us1.mcgx.tech/api?username=MooCowGalaxy&count_private=true&show_icons=true&theme=dark)
