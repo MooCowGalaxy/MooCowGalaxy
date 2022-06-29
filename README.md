@@ -15,6 +15,4 @@ libraries/frameworks:
 ## projects
 - JKLM.fun bot (https://jklm.moocow.dev - last update Mar. 2022)
 - CocoBot Discord bot (https://moocow.dev - last update 2020)
-- mooi.ng ShareX image host (private beta)
-
-![stats](https://github-stats.us1.mcgx.tech/api?username=MooCowGalaxy&count_private=true&show_icons=true&theme=dark)
+- uploader.tech ShareX image host (https://uploader.tech - last update July 2022)
