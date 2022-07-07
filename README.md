@@ -12,7 +12,5 @@ libraries/frameworks:
 - express.js backend
 - tailwindcss
 
-## projects
-- JKLM.fun bot (https://jklm.moocow.dev - last update Mar. 2022)
-- CocoBot Discord bot (https://moocow.dev - last update 2020)
+## active projects
 - uploader.tech ShareX image host (https://uploader.tech - last update July 2022)
