@@ -12,7 +12,7 @@ Aspiring web developer from California.
 - Express.js backend
 - Prisma.js database library
 
-## active projects
+## Active projects
 - uploader.tech ShareX image host (https://uploader.tech - last update July 2022)
 - Ping tester (https://ping.moocow.dev - last update November 2022)
 - Timely Discord bot (WIP)
